@@ -9,7 +9,7 @@ plugins:
 
 By youjie {.text-intro.animated.fadeInUp.delay-500}
 
-[:fa-github: Github](https://github.com/ksky521/nodeppt){.button.ghost.animated.flipInX.delay-1200}
+[:fa-github: Github](https://github.com/yokiyokiyoki/brief-history-ppt){.button.ghost.animated.flipInX.delay-1200}
 
 <slide :class="size-30 aligncenter">
 
