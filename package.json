@@ -1,0 +1,13 @@
+{
+  "name": "brief-history-ppt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yokiyokiyoki/brief-history-ppt.git",
+  "author": "youjie",
+  "license": "MIT",
+  "scripts":{
+    "dev":"nodeppt serve index.md",
+    "build":"nodeppt build index.md",
+    "deploy":"rm -rf dist&&bash deploy.sh"
+  }
+}
