@@ -117,7 +117,6 @@ By youjie {.text-intro.animated.fadeInUp.delay-500}
 
 `英文原版直译为21堂关于21世纪的课`{.animated.fadeInUp}
 
-`快乐=了悟`{.animated.fadeInUp}
 
 <slide>
 # 三大故事
