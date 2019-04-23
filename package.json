@@ -8,6 +8,6 @@
   "scripts":{
     "dev":"nodeppt serve index.md",
     "build":"nodeppt build index.md",
-    "deploy":"rm -rf dist&&bash deploy.sh"
+    "deploy":"rm -rf dist&&mkdir dist&&yarn build&&bash deploy.sh"
   }
 }
