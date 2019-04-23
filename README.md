@@ -1,4 +1,4 @@
-# 今日简史之读书会分享
+# 读书会分享之今日简史
 
 [预览](https://yokiyokiyoki.github.io/brief-history-ppt)
 
