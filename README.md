@@ -5,12 +5,12 @@
 # 快速开始
 
 ```bash
-$ yarn gloabl add nodeppt #前提，下载
-$ yarn dev #运行
-$ yarn build #打包
-$ yarn deploy #部署线上
+$ yarn gloabl add nodeppt #前提  
+$ yarn dev                #运行
+$ yarn build              #打包
+$ yarn deploy             #部署
 ```
 
 # 感谢
 
-[nodeppt](https://github.com/ksky521/nodeppt)
+- [nodeppt](https://github.com/ksky521/nodeppt)
